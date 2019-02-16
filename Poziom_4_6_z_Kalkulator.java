@@ -3,7 +3,7 @@ package com.kodilla.kalkulator;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.lang.*;
-
+//dodano mnożenie i dzielenie
 class Calculator
 {
 	public int addAToB(int a, int b) {
